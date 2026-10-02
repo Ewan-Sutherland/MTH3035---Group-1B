@@ -1,3 +1,6 @@
+# If you can't run snuffler, run this:
+`conda install matplotlib==3.8.4` and make sure not to ever update matplotlib
+
 # PyGIMLi Installation Guide
 
 This guide explains **how to correctly install PyGIMLi**, how to fix
