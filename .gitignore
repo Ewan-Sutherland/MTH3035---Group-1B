@@ -4,7 +4,7 @@ diagonals_info/
 figures/
 PICKS_LAST_YEAR/
 *.csv
-*.txt
 *.png
 *.jpg
 .DS_Store
+HS53_x-*.txt
