@@ -1,2 +1,0 @@
-snuffler --stations=station_info_HS00.txt --events=event_info_HS00.txt *
-

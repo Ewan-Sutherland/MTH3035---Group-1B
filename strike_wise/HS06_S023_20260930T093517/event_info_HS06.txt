@@ -1,5 +1,0 @@
-name = 00006
-time = 2026-09-30 09:35:17
-latitude = -3.5
-longitude = 2.5
-catalog = soulton hall hammer strikes
